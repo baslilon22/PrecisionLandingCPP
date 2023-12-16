@@ -1,0 +1,3 @@
+/home/casia/Downloads/aruco/build/CMakeFiles/rebuild_cache.dir
+/home/casia/Downloads/aruco/build/CMakeFiles/main.dir
+/home/casia/Downloads/aruco/build/CMakeFiles/edit_cache.dir
